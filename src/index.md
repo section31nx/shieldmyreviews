@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Home
 ---
 
-## Detect & Filter Bad Reviews Instantly
+## Detect ## Detect & Filter Bad Reviews Instantly Filter Bad Reviews — NOW LIVE
 
 ShieldMyReviews uses AI-driven trust indexing to spot fake or malicious reviews before they hit your page.
 
